@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\HomeWorkWeek05\HomeWorkWeek05\bin\Debug\HomeWorkWeek05.exe.config
+C:\Users\User\source\repos\HomeWorkWeek05\HomeWorkWeek05\bin\Debug\HomeWorkWeek05.exe
+C:\Users\User\source\repos\HomeWorkWeek05\HomeWorkWeek05\bin\Debug\HomeWorkWeek05.pdb
+C:\Users\User\source\repos\HomeWorkWeek05\HomeWorkWeek05\obj\Debug\HomeWorkWeek05.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HomeWorkWeek05\HomeWorkWeek05\obj\Debug\HomeWorkWeek05.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\HomeWorkWeek05\HomeWorkWeek05\obj\Debug\HomeWorkWeek05.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWorkWeek05\HomeWorkWeek05\obj\Debug\HomeWorkWeek05.exe
+C:\Users\User\source\repos\HomeWorkWeek05\HomeWorkWeek05\obj\Debug\HomeWorkWeek05.pdb
